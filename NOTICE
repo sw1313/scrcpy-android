@@ -1,0 +1,24 @@
+NOTICES
+=======
+
+This product includes software developed by third parties.
+
+---------------------------------------------------------------------------
+scrcpy / scrcpy-server
+Copyright (C) Genymobile and contributors
+https://github.com/Genymobile/scrcpy
+
+Licensed under the Apache License, Version 2.0
+https://www.apache.org/licenses/LICENSE-2.0
+
+---------------------------------------------------------------------------
+dadb (dev.mobile:dadb)
+Copyright (C) mobile.dev inc and contributors
+https://github.com/mobile-dev-inc/dadb
+
+Licensed under the Apache License, Version 2.0
+https://www.apache.org/licenses/LICENSE-2.0
+
+---------------------------------------------------------------------------
+Other AndroidX / Kotlin / Material components are used under their
+respective open-source licenses as declared by their upstream projects.

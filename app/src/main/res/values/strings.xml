@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">无线ADB投屏</string>
+    <string name="title_connect">无线 ADB 投屏</string>
+    <string name="title_settings">编码与连接参数</string>
+    <string name="cd_settings">设置</string>
+    <string name="cd_back">返回</string>
+    <string name="hint_lan">输入被控设备的无线调试地址。控制端与被控端需在同一局域网。</string>
+    <string name="label_ip">IP 地址</string>
+    <string name="label_port">端口</string>
+    <string name="action_start">开始镜像</string>
+    <string name="action_connecting">连接中…</string>
+    <string name="action_battery">打开电池优化设置（保活）</string>
+    <string name="keepalive_tip">保活提示：请允许通知，并在系统设置中忽略电池优化。会话由前台服务持有，按 Home 切到后台不会主动断联；可随时在通知栏断开。</string>
+    <string name="params_summary">参数：max-size=%1$s / 码率=%2$dMbps / 帧率=%3$dfps / %4$s</string>
+    <string name="action_save">保存</string>
+    <string name="action_back">返回</string>
+    <string name="action_disconnect">断开</string>
+    <string name="params_apply_tip">参数在启动会话时生效；修改后需重新连接。</string>
+    <string name="section_max_size">最大边长 (max-size)</string>
+    <string name="section_bitrate">视频码率</string>
+    <string name="section_fps">最大帧率</string>
+    <string name="section_video_codec">视频编码</string>
+    <string name="section_audio_codec">音频编码</string>
+    <string name="label_native_size">原始分辨率</string>
+    <string name="label_remote_audio">远程音频（需被控端 Android 11+）</string>
+    <string name="label_stay_awake">保持被控端唤醒</string>
+    <string name="label_power_off">结束时关闭被控端屏幕</string>
+    <string name="nav_back">返回</string>
+    <string name="nav_home">主页</string>
+    <string name="nav_recents">多任务</string>
+    <string name="nav_vol_down">音量减</string>
+    <string name="nav_vol_up">音量加</string>
+    <string name="nav_disconnect">断开连接</string>
+    <string name="nav_bubble">导航球</string>
+</resources>
